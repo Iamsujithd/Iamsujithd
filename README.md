@@ -1,4 +1,4 @@
-```markdown
+[```markdown
 # Hi there, I'm Sujith 👋
 
 I am a passionate developer with a diverse skill set and interests. Let's take a deep dive into my GitHub profile analysis:
@@ -22,9 +22,8 @@ I am a passionate developer with a diverse skill set and interests. Let's take a
 - Active in creating and updating projects
 
 ### GitHub Presence
-- Followers: 0
 - Account Created on: September 29, 2023
-- No contributions to open-source projects
+
 
 ### Current Focus
 I am keen on enhancing my GitHub presence and skill set. Looking forward to engaging with the open-source community!
@@ -57,3 +56,4 @@ Let's connect and collaborate!
 Thanks for visiting! 😊
 ```
 This markdown file includes a visually appealing and informative GitHub profile README based on the user analysis provided.
+](https://github-readme-stats.vercel.app/api?username=Iamsujithd)

@@ -1,4 +1,4 @@
-[```markdown
+```markdown
 # Hi there, I'm Sujith 👋
 
 I am a passionate developer with a diverse skill set and interests. Let's take a deep dive into my GitHub profile analysis:

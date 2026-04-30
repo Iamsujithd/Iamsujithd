@@ -16,10 +16,6 @@ I am a passionate developer with a diverse skill set and interests. Let's take a
 - Primary Tool: Jupyter Notebook
 - Diverse Technology focus
 
-### Project Contributions
-- Contributed to Repositories like SIH_scrape_analysis_prediction, HFT_E-rates_platform, DiagnosisML
-- Only 1 Star on the SIH_scrape_analysis_prediction Repository
-- Active in creating and updating projects
 
 ### GitHub Presence
 - Account Created on: September 29, 2023

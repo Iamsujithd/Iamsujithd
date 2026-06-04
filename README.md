@@ -17,14 +17,11 @@
   <a href="https://github.com/Iamsujithd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/iamsujithd" target="_blank">
+  <a href="https://www.linkedin.com/in/d-sujiith/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:d.sujith@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/iamsujithd" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
 
@@ -57,7 +54,7 @@ const sujith = {
 - 🌱 Exploring **Deep Learning, TensorFlow & Neural Networks**
 - 💡 Passionate about **AI, Finance Tech & Quantitative Analysis**
 - 🤝 Open to **collaborating on Data Science & ML projects**
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/iamsujithd)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/d-sujiith/)**
 - ⚡ Fun fact: **I love finding patterns in data that others miss!**
 
 <br/>
@@ -163,18 +160,6 @@ const sujith = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--              WAKATIME CODING STATS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> 💡 *Powered by [WakaTime](https://wakatime.com) — tracking live coding activity*
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--             CONTRIBUTION SNAKE ANIMATION                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 ## 🐍 Watch My Contributions Get Eaten!
@@ -211,7 +196,7 @@ const sujith = {
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/iamsujithd" target="_blank">
+  <a href="https://www.linkedin.com/in/d-sujiith/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -220,7 +205,7 @@ const sujith = {
   </a>
   &nbsp;
   <a href="mailto:d.sujith@outlook.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 
 <br/><br/>

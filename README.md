@@ -14,13 +14,13 @@
 <!--                   SOCIAL BADGES ROW                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <p align="center">
-  <a href="https://github.com/iamsujithd" target="_blank">
+  <a href="https://github.com/Iamsujithd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/iamsujithd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sujithd@email.com">
+  <a href="mailto:d.sujith@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/iamsujithd" target="_blank">
@@ -30,7 +30,7 @@
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamsujithd&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Iamsujithd&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <br/>
@@ -104,19 +104,22 @@ const sujith = {
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                              -->
+<!-- Use vercel.com self-hosted OR githubstats.me for reliability -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsujithd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamsujithd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=7200" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsujithd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamsujithd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200" height="170"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamsujithd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Iamsujithd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="680"/>
 </div>
 
 <br/>
@@ -127,7 +130,7 @@ const sujith = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamsujithd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Iamsujithd&theme=tokyonight&no-frame=true&margin-w=6&column=6" width="100%"/>
 </div>
 
 <br/>
@@ -138,7 +141,7 @@ const sujith = {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsujithd&theme=tokyo-night&hide_border=true&area=true&area_color=1a6b9a&line=6AD3F7&point=ffffff&custom_title=Sujith's%20GitHub%20Activity%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iamsujithd&theme=tokyo-night&hide_border=true&area=true&custom_title=Sujith's%20GitHub%20Activity%20Graph" width="100%"/>
 </div>
 
 <br/>
@@ -151,9 +154,9 @@ const sujith = {
 <div align="center">
 
 | 🚀 Project | 📝 Description | 🛠️ Tech | ⭐ |
-|:---:|:---:|:---:|:---:|
-| [**SIH Scrape & Predict**](https://github.com/iamsujithd/SIH_scrape_analysis_prediction) | Web scraping + ML prediction pipeline for market analysis | Python, Jupyter, scikit-learn | [![Stars](https://img.shields.io/github/stars/iamsujithd/SIH_scrape_analysis_prediction?style=flat-square&color=ffd700)](https://github.com/iamsujithd/SIH_scrape_analysis_prediction) |
-| [**HFT E-Rates Platform**](https://github.com/iamsujithd/HFT_E-rates_platform) | High-frequency trading exchange rates platform with real-time data | Java | [![Stars](https://img.shields.io/github/stars/iamsujithd/HFT_E-rates_platform?style=flat-square&color=ffd700)](https://github.com/iamsujithd/HFT_E-rates_platform) |
+|:---|:---|:---:|:---:|
+| [**SIH Scrape & Predict**](https://github.com/Iamsujithd/SIH_scrape_analysis_prediction) | Web scraping + ML prediction pipeline for market analysis | Python · Jupyter · scikit-learn | [![Stars](https://img.shields.io/github/stars/Iamsujithd/SIH_scrape_analysis_prediction?style=flat-square&color=ffd700)](https://github.com/Iamsujithd/SIH_scrape_analysis_prediction) |
+| [**HFT E-Rates Platform**](https://github.com/Iamsujithd/HFT_E-rates_platform) | High-frequency trading exchange rates platform | Java | [![Stars](https://img.shields.io/github/stars/Iamsujithd/HFT_E-rates_platform?style=flat-square&color=ffd700)](https://github.com/Iamsujithd/HFT_E-rates_platform) |
 
 </div>
 
@@ -167,7 +170,7 @@ const sujith = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-> 💡 *Powered by [WakaTime](https://wakatime.com) — set up in Step 3 of the guide*
+> 💡 *Powered by [WakaTime](https://wakatime.com) — tracking live coding activity*
 
 <br/>
 
@@ -179,16 +182,14 @@ const sujith = {
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/iamsujithd/iamsujithd/output/github-contribution-grid-snake-dark.svg"/>
+            srcset="https://raw.githubusercontent.com/Iamsujithd/Iamsujithd/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/iamsujithd/iamsujithd/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" 
-         src="https://raw.githubusercontent.com/iamsujithd/iamsujithd/output/github-contribution-grid-snake-dark.svg"
+            srcset="https://raw.githubusercontent.com/Iamsujithd/Iamsujithd/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake"
+         src="https://raw.githubusercontent.com/Iamsujithd/Iamsujithd/output/github-contribution-grid-snake-dark.svg"
          width="100%"/>
   </picture>
 </div>
-
-> ⚙️ *This animation auto-updates every 12 hours via GitHub Actions*
 
 <br/>
 
@@ -209,16 +210,16 @@ const sujith = {
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  
+
   <a href="https://www.linkedin.com/in/iamsujithd" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/iamsujithd" target="_blank">
+  <a href="https://github.com/Iamsujithd" target="_blank">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:sujithd@email.com">
+  <a href="mailto:d.sujith@outlook.com">
     <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 

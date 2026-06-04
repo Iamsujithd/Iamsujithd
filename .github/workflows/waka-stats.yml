@@ -1,0 +1,53 @@
+# WakaTime Coding Stats — Auto-updates daily
+# Shows your weekly coding breakdown (languages, editors, OS)
+# REQUIRES: Add WAKATIME_API_KEY to repo Secrets (see setup guide below)
+
+name: ⏱️ Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 18 * * *"    # Every day at 6PM UTC (11:30 PM IST)
+  workflow_dispatch:          # Manual trigger anytime
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update WakaTime coding stats in README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_TIMEZONE: "True"
+          TIME_RANGE: "last_7_days"
+
+# ─────────────────────────────────────────────────────
+# SETUP GUIDE (Do this once before first run):
+# ─────────────────────────────────────────────────────
+# 1. Go to https://wakatime.com → Sign up (free)
+# 2. Install WakaTime extension in VS Code:
+#    https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime
+# 3. Get your API key: https://wakatime.com/api-key
+# 4. In your GitHub profile repo (iamsujithd/iamsujithd):
+#    Settings → Secrets and variables → Actions → New repository secret
+#    Name: WAKATIME_API_KEY  |  Value: (your key)
+# 5. Also create a GitHub Personal Access Token (PAT):
+#    github.com/settings/tokens → Generate new token (classic)
+#    Scopes: repo, user  →  Copy token
+#    Add as secret: Name: GH_TOKEN  |  Value: (your PAT)
+# 6. Enable "Display code time publicly" in WakaTime settings
+# 7. Trigger this workflow manually once to test
+# ─────────────────────────────────────────────────────

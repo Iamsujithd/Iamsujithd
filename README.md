@@ -121,16 +121,7 @@ const sujith = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  GITHUB TROPHIES                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iamsujithd&theme=tokyonight&no-frame=true&margin-w=6&column=6" width="100%"/>
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   ACTIVITY GRAPH                            -->

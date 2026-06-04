@@ -45,17 +45,15 @@ const sujith = {
   code       : ["Python 🐍", "JavaScript ⚡", "Java ☕", "HTML", "CSS"],
   tools      : ["Jupyter Notebook", "VS Code", "Git", "Google Colab"],
   learning   : "Deep Learning • Neural Networks • MLOps",
-  openTo     : "Collaborations | Open Source | Internships",
-  funFact    : "I debug with print() and I'm not ashamed! 😂",
+  openTo     : "Collaborations | Open Source | Internships"
 };
 ```
 
 - 🔭 Currently working on **ML prediction & data analysis models**
 - 🌱 Exploring **Deep Learning, TensorFlow & Neural Networks**
 - 💡 Passionate about **AI, Finance Tech & Quantitative Analysis**
-- 🤝 Open to **collaborating on Data Science & ML projects**
+- 🤝 Open to **collaborating on AI & ML projects**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/d-sujiith/)**
-- ⚡ Fun fact: **I love finding patterns in data that others miss!**
 
 <br/>
 
